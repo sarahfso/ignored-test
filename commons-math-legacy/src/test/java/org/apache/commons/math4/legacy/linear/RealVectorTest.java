@@ -146,12 +146,14 @@ public class RealVectorTest extends RealVectorAbstractTest{
         // Do nothing
     }
 
+    /*
     @Test
     @Ignore("Abstract class RealVector does not implement ebeMultiply(RealVector)")
     @Override
     public void testEbeMultiplyDimensionMismatch() {
         // Do nothing
     }
+    
 
     @Test
     @Ignore("Abstract class RealVector does not implement ebeDivide(RealVector)")
@@ -180,6 +182,7 @@ public class RealVectorTest extends RealVectorAbstractTest{
     public void testGetL1Norm() {
         // Do nothing
     }
+    */
 
     @Test
     @Ignore("Abstract class RealVector does not implement getLInfNorm()")
