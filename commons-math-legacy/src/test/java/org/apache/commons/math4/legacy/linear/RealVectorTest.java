@@ -146,44 +146,6 @@ public class RealVectorTest extends RealVectorAbstractTest{
         // Do nothing
     }
 
-    /*
-    @Test
-    @Ignore("Abstract class RealVector does not implement ebeMultiply(RealVector)")
-    @Override
-    public void testEbeMultiplyDimensionMismatch() {
-        // Do nothing
-    }
-    
-
-    @Test
-    @Ignore("Abstract class RealVector does not implement ebeDivide(RealVector)")
-    @Override
-    public void testEbeDivideSameType() {
-        // Do nothing
-    }
-
-    @Test
-    @Ignore("Abstract class RealVector does not implement ebeDivide(RealVector)")
-    @Override
-    public void testEbeDivideMixedTypes() {
-        // Do nothing
-    }
-
-    @Test
-    @Ignore("Abstract class RealVector does not implement ebeDivide(RealVector)")
-    @Override
-    public void testEbeDivideDimensionMismatch() {
-        // Do nothing
-    }
-
-    @Test
-    @Ignore("Abstract class RealVector does not implement getL1Norm()")
-    @Override
-    public void testGetL1Norm() {
-        // Do nothing
-    }
-    */
-
     @Test
     @Ignore("Abstract class RealVector does not implement getLInfNorm()")
     @Override
